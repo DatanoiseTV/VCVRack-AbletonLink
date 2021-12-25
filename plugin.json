@@ -1,0 +1,25 @@
+{
+  "slug": "Link",
+  "name": "Link",
+  "version": "2.0.0",
+  "license": "GPL-2.0-or-later",
+  "brand": "Synthetic Instruments",
+  "author": "DatanoiseTV",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "LinkModule",
+      "name": "LinkModule",
+      "description": "",
+      "tags": [
+        "util"
+      ]
+    }
+  ]
+}
